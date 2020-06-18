@@ -1,0 +1,21 @@
+@import '../../node_modules/antd/dist/antd.css';
+
+.App {
+    text-align: center;
+}
+
+.login-form {
+    max-width: 300px;
+    margin: auto;
+}
+.login-form-forgot {
+    float: right;
+}
+.ant-col-rtl .login-form-forgot {
+    float: left;
+}
+.login-form-button {
+    width: 100%;
+}
+
+

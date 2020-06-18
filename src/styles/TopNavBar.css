@@ -1,0 +1,41 @@
+.App-header {
+    background-color: white;
+    height: 55px;
+    color: white;
+    display: block;
+    align-items: center;
+    box-shadow: -1px 0 5px 0 #1D428A;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-right: 80px;
+}
+
+.App-logo {
+    height: 35px;
+    float: left;
+    padding-left: 40px;
+}
+
+.Top_bar {
+    float: right;
+    display: block;
+}
+
+.left {
+    float:left;
+    margin-left:7px;
+    display:block;
+}
+.right {
+    float: right;
+    padding-top:5px;
+    display:block;
+    padding-left: 20px;
+    padding-right:4px;
+}
+
+
+.menu {
+    float: right;
+    display:block;
+}

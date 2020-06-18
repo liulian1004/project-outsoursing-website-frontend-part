@@ -1,0 +1,122 @@
+.student-profile-container {
+    margin: auto;
+    width: 1148px;
+    background-color: white;
+    padding: 10px 70px;
+}
+
+.student-detail-container {
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1148px;
+    background-color: white;
+    padding: 10px 70px;
+}
+.profile-detail-head {
+    padding: 12px 32px;
+    margin-bottom: 20px;
+
+}
+
+.profile-detail {
+    background-color: white;
+}
+
+
+.profile-title {
+    margin-bottom: 5px;
+    margin-left: -20px;
+}
+
+
+.profile-detail-head-title {
+    padding: 32px 50px;
+}
+.profile-title-right  {
+    padding-top: 10px;
+    margin-left: 40px;
+    float: left;
+}
+.profile-img {
+    float: left;
+}
+.div-context {
+    text-align: left;
+}
+
+.profile-edit {
+    float: right;
+    padding-top: 50px;
+}
+
+.profile-body {
+    margin-top: 0px;
+}
+.profile-clear {
+    clear:both;
+}
+
+.profile-detail-content {
+    padding: 10px  32px;
+}
+
+.button-detail {
+    display: block;
+    margin: auto;
+}
+
+.email-phone {
+    color: #1890ff;
+}
+
+.email-div {
+    margin-bottom: 10px;
+}
+
+.edit-font {
+    color: darkgray;
+}
+
+.preference-header {
+    padding-left: 50px;
+    text-align: left;
+    font-size: larger;
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+}
+
+.project-item {
+    text-align: left;
+    padding-left: 100px;
+    margin-top: 20px;
+    font-size: medium;
+    font-family: -apple-system;
+    color: black;
+}
+
+.resume-font {
+    font-size: large;
+}
+
+.project-item-left {
+    float: left;
+}
+
+.project-item-right {
+    float: right;
+}
+
+.site-form-in-drawer-wrapper {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    padding: 10px 16px;
+    border-top: 1px solid #e9e9e9;
+    background: #fff;
+    text-align: right;
+}
+
+.avatar-uploader {
+    float: left;
+}

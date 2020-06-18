@@ -1,0 +1,103 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 500px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+    color: #fff;
+}
+
+.slides {
+    width: 50%;
+    margin: auto;
+}
+
+.MainProjectList {
+    margin: auto;
+    width: 60%;
+}
+.site-card-wrapper {
+    width: 75%;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 20px auto auto;
+    align-content: flex-start;
+}
+
+
+.mycard {
+    box-sizing: border-box;
+    background-color: white;
+    flex: 0 0 33%;
+    margin: 1px;
+
+}
+
+.time {
+    margin-top: 20px;
+    font-size: 10px;
+}
+
+.project-detail {
+    background-color: white;
+}
+
+.project-container {
+    margin: auto;
+    width: 1148px;
+
+}
+
+.project-title {
+    margin-bottom: 5px;
+    margin-left: -20px;
+}
+
+.project-detail-head {
+    padding: 12px 32px;
+    margin-bottom: 20px;
+
+}
+
+.project-detail-head-title {
+    padding: 16px 0;
+}
+.project-title-right  {
+    margin-left: 20px;
+    float: left;
+    text-align: left;
+}
+.project-img {
+    float: left;
+}
+
+.project-apply {
+    float: right;
+    padding-top: 50px;
+}
+.project-apply::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.project-detail-body {
+
+    margin-top: 20px;
+}
+.project-clear {
+    clear:both;
+}
+
+.project-detail-content {
+    padding: 10px  32px;
+}
+
+.button-detail {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
